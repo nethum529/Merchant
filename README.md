@@ -1,5 +1,13 @@
 # Merchant
 
+## DEMO: 
+
+App Walkthrough:
+* https://youtube.com/shorts/vhqGumZqmqw
+
+Backend Breakdown:
+* https://youtube.com/shorts/SPSNAtbDLw8.
+
 ## Context 
 
 Credit Cards offer a diverse variety of benefits
